@@ -1,12 +1,13 @@
-## Rectangular Collocation program using LU Decomposition ##
+# Rectangular Collocation program using LU Decomposition #
 
 This program provides a small working example for generating the ground state quantum vibrational energy levels of small molecules using the novel rectangular collocation method presented in:
 
-J. Simmons and T. Carrington, "Computing vibrational spectra using a new collocation method with a pruned basis and more points than functions: avoiding quadrature." The Journal of Chemical Physics 158, 144115 (2023) 
+
+ ### J. Simmons and T. Carrington, "Computing vibrational spectra using a new collocation method with a pruned basis and more points than functions: avoiding quadrature." The Journal of Chemical Physics 158, 144115 (2023) ###
 
 
 
-### Notes about the program ###
+## Notes about the program ##
 
 -requires LAPACK + BLAS through the Intel Math Kernel (-mkl) library and ARPACK 
 
