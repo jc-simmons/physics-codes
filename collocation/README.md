@@ -1,4 +1,4 @@
-## Rectangular Collocation program using LU inverses ##
+## Rectangular Collocation program using LU Decomposition ##
 
 This program provides a small working example for generating the ground state quantum vibrational energy levels of small molecules using the novel rectangular collocation method presented in:
 
