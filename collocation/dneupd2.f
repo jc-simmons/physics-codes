@@ -1,3 +1,6 @@
+c MODIFIED VERSION OF DNEUPD. For original work see:
+c "ARPACK: Solution of Large Scale Eigenvalue Problems by Implicitly Restarted Arnoldi Methods"
+c Richard B. Lehoucq, Danny C. Sorensen, Chao Yang SIAM, Jan 1, 1998
 c\BeginDoc
 c
 c\Name: dneupd 
