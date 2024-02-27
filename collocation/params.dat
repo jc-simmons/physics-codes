@@ -1,0 +1,6 @@
+'p2opotential.dat'          ! name of potential file
+3                           ! dimenion
+12                          ! basis pruning parameter
+12                          ! point pruning parameter
+18                          ! # terms in potential
+'energies'                  ! name of output file = outfile_(bmax+1)_(pmax+1).dat
